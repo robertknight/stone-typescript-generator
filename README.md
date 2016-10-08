@@ -1,5 +1,7 @@
 # stone-typescript-generator
 
+**DEPRECATED - There is work happening [upstream](https://github.com/dropbox/stone/pull/14) to add a built-in TypeScript definition generator to Stone.**
+
 [Stone](https://github.com/dropbox/stone) is a language for specifying APIs and
 a tool for generating client libraries for those APIs.
 
